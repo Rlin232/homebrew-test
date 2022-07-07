@@ -1,2 +1,2 @@
 # homebrew-test
-Testing local tap for home-brew
+Testing local tap for homebrew
